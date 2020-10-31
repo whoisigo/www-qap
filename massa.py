@@ -1,1 +1,1 @@
-print "massa!"
+print ("Só a massa!")
